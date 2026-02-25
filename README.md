@@ -113,33 +113,21 @@ Advanced DAX functions used:
 
 ## 📁 Repository Structure
 crm-sales-powerbi-analytics-dashboard/
-├── README.md
-├── README.txt
-├── End-to-End CRM Dashboard.pbix
 │
-├── Images/
+├── README.md # Main project documentation
+├── README.txt # Backup text version
+├── End-to-End CRM Dashboard.pbix # Power BI dashboard file
+│
+├── Images/ # Dashboard screenshots
 │ ├── Home_Page.png
 │ ├── Funnel_Conversion.png
 │ ├── Customer_Intelligence.png
 │ ├── Pipeline_Forecast.png
-│ └── Drillthrough.png
+│ ├── Drillthrough.png
+│ └── Power_BI_Service_Dashboard.png
 │
 └── docs/
-└── Project_Report_PowerBI.do
-├── README.md
-├── README.txt
-├── End-to-End CRM Dashboard.pbix
-│
-├── Images/
-│ ├── Home_Page.png
-│ ├── Funnel_Conversion.png
-│ ├── Customer_Intelligence.png
-│ ├── Pipeline_Forecast.png
-│ └── Drillthrough.png
-  └── Power BI Service Dashboard.png   
-│
-└── docs/
-└── Project_Report_PowerBI.docx
+└── Project_Report_PowerBI.docx # Detailed project report
 ---
 
 ## 🚀 How to Use the Dashboard
