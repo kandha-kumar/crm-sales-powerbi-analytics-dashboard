@@ -122,7 +122,6 @@ Advanced DAX functions used:
 crm-sales-powerbi-analytics-dashboard/
 │
 ├── README.md
-├── README.txt
 ├── End-to-End CRM Dashboard.pbix
 │
 ├── Images/
