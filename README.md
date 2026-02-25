@@ -120,7 +120,6 @@ Advanced DAX functions used:
 ## 📁 Repository Structure
 ```
 crm-sales-powerbi-analytics-dashboard/
-│
 ├── README.md
 ├── End-to-End CRM Dashboard.pbix
 │
