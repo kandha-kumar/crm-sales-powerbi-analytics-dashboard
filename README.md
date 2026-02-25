@@ -46,7 +46,6 @@ This dashboard solves these challenges by delivering interactive, KPI-driven ins
 ### 🏠 Executive Dashboard
 ![Executive Dashboard]((Images/Executive_Dashboard.png)
 
-
 ### 👥 Customer Intelligence
 ![Customer Intelligence](Images/Customer_Intelligence.png)
 
