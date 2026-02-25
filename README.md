@@ -58,6 +58,9 @@ This dashboard solves these challenges by delivering interactive, KPI-driven ins
 ### 📑 Drillthrough – Deal Level Details
 ![Drillthrough](Images/Drillthrough.png)
 
+### 📑 Power BI Service Dashboard
+![Power BI service dashboard](Images/Power_BI_service_dashboard.png)
+
 ---
 
 ## 🏗 Data Modeling Approach
