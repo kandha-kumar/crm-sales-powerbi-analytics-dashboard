@@ -118,6 +118,7 @@ Advanced DAX functions used:
 ---
 
 ## 📁 Repository Structure
+```
 crm-sales-powerbi-analytics-dashboard/
 │
 ├── README.md
@@ -134,6 +135,7 @@ crm-sales-powerbi-analytics-dashboard/
 │
 └── docs/
     └── Project_Report_PowerBI.docx
+```
 ---
 
 ## 🚀 How to Use the Dashboard
