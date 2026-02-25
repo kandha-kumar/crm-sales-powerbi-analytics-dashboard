@@ -40,11 +40,14 @@ This dashboard solves these challenges by delivering interactive, KPI-driven ins
 
 ## 📊 Dashboard Preview
 
+### 🏠 Home Page
+![Home Page](Images/Home_Page.png)
+
 ### 🏠 Executive Dashboard
-![Executive Dashboard](Images/Home_Page.png)
+![Executive Dashboard]((Images/Executive_Dashboard.png)
 
 ### 📈 Sales Performance Analysis
-![Sales Performance](Images/Sales_Performance_Analysis.png)
+![Sales Performance_Analysis](Images/Sales_Performance_Analysis.png)
 
 ### 🔍 Funnel & Conversion Analysis
 ![Funnel Analysis](Images/Funnel_Conversion.png)
