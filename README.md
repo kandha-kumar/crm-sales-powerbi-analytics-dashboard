@@ -46,14 +46,15 @@ This dashboard solves these challenges by delivering interactive, KPI-driven ins
 ### 🏠 Executive Dashboard
 ![Executive Dashboard]((Images/Executive_Dashboard.png)
 
-### 📈 Sales Performance Analysis
-![Sales Performance_Analysis](Images/Sales_Performance_Analysis.png)
-
-### 🔍 Funnel & Conversion Analysis
-![Funnel Analysis](Images/Funnel_Conversion.png)
 
 ### 👥 Customer Intelligence
 ![Customer Intelligence](Images/Customer_Intelligence.png)
+
+### 📈 Sales Performance Analysis
+![Sales Performance Analysis](Images/Sales_Performance_Analysis.png)
+
+### 🔍 Funnel & Conversion Analysis
+![Funnel Analysis](Images/Funnel_Conversion.png)
 
 ### 📊 Pipeline Forecast & Revenue Insights
 ![Pipeline Forecast](Images/Pipeline_Forecast.png)
